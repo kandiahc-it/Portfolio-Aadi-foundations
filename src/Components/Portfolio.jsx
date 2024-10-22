@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Weather App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    "Basic Weather Application tells the WindSpeed, Humidity and Temperature by using open API at the backend.",
+    url: "https://github.com/kandiahc-it/Weather-App",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Calculator App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Basic Calculator that calculates showing values in the screen and evaluate it.",
+    url: "https://github.com/kandiahc-it/calculator-project",
   },
   {
-    title: "My Resume Site",
+    title: "Restaurant Web Design",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    "Created a Interactive UI that shows Menu, Cart, SearchBar etc.,",
+    url: "https://github.com/kandiahc-it/Codsoft/blob/main/restaruant%20interface.fig",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Interactive Portfolio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    "A personalized, clean portfolio with engaging descriptions and a contact form that can send automatic emails",
+    url: "https://github.com/kandiahc-it/Portfolio-in-React",
   },
 ];
 
